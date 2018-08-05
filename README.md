@@ -16,7 +16,7 @@ The project has the following dependencies (from Udacity's seed project):
 
 For instructions on how to install these components on different operating systems, please, visit [Udacity's seed project](https://github.com/udacity/CarND-Kidnapped-Vehicle-Project). 
 
-In order to install the necessary libraries, use the [install-mac.sh](./install-mac.sh).
+In order to install the necessary libraries, use the [install-mac.sh](./install-mac.sh) or [install-ubuntu.sh](./install-ubuntu.sh).
 
 # Compiling and executing the project
 
